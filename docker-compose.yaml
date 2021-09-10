@@ -1,5 +1,5 @@
 services:
-  uncleluo:
+  luoshu:
     build: .
     ports:
       - 80:80
